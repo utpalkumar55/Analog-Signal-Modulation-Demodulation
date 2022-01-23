@@ -1,4 +1,4 @@
-# Analog-Signal-Modulation-Demodulation
+# Analog Signal Modulation Demodulation
 This repository contains examples of amplitude, frequency, and phase modulation demodulation of analog signal using analog carrier.
 
 All the examples here follows the block diagram below. First analog signal is created using sine function with necessary parameters. Then, the signal is modulated using the desired modulation method. After that, the modulated signal is passed through an AWGN channel. Next, the received signal is demodulated using the same demodulator to get the recovered signal.
